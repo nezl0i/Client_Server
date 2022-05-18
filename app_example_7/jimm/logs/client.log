@@ -1,0 +1,443 @@
+2022-05-12 07:42:41,644 DEBUG log_decorator Декоратор1
+2022-05-12 07:42:54,026 DEBUG log_decorator Декоратор1
+2022-05-12 07:43:14,492 DEBUG log_decorator Декоратор1
+2022-05-12 07:43:34,020 DEBUG log_decorator Декоратор1
+2022-05-12 07:44:48,552 DEBUG log_decorator Декоратор1
+2022-05-12 07:44:54,539 DEBUG log_decorator Декоратор1
+2022-05-12 07:45:21,369 DEBUG log_decorator Декоратор1
+2022-05-12 07:46:02,878 DEBUG log_decorator Декоратор1
+2022-05-12 07:46:02,878 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-12 07:46:02,879 DEBUG log_decorator Декоратор
+2022-05-12 07:46:02,879 DEBUG log_decorator Декоратор1
+2022-05-12 07:47:12,893 DEBUG log_decorator Декоратор1
+2022-05-12 07:47:12,893 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-12 07:47:12,893 DEBUG log_decorator Декоратор
+2022-05-12 07:47:12,893 DEBUG log_decorator Декоратор1
+2022-05-12 07:47:25,199 DEBUG log_decorator Декоратор1
+2022-05-12 07:47:25,200 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-12 07:47:25,200 DEBUG log_decorator Декоратор
+2022-05-12 07:47:25,212 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-12 07:47:25,213 CRITICAL client Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение.
+2022-05-12 07:48:50,426 DEBUG log_decorator Декоратор1
+2022-05-12 08:02:12,311 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-12 08:02:12,311 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-12 08:02:12,311 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652331732.3116536, 'user': {'account_name': 'Guest'}}
+2022-05-12 08:02:12,312 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-12 08:02:12,312 INFO client Получен ответ от сервера 200 : OK
+2022-05-12 08:02:46,257 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-12 08:02:46,257 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-12 08:02:46,258 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652331766.2579072, 'user': {'account_name': 'Guest'}}
+2022-05-12 08:02:46,258 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-12 08:02:46,259 INFO client Получен ответ от сервера 200 : OK
+2022-05-12 08:26:48,355 DEBUG log_decorator Была вызвана функция create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-12 08:26:48,355 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-12 08:26:48,355 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-12 08:26:48,355 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652333208.355719, 'user': {'account_name': 'Guest'}}
+2022-05-12 08:26:48,356 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-12 08:26:48,357 DEBUG log_decorator Была вызвана функция process_ans c параметрами ({'response': 200},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-12 08:26:48,357 INFO client Получен ответ от сервера 200 : OK
+2022-05-12 08:28:04,002 DEBUG log_decorator Была вызвана функция create_parser c параметрами (), {}.
+Вызов из модуля __main__.
+Вызов из функции main().
+
+2022-05-12 08:28:04,002 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-12 08:28:04,002 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-12 08:28:04,003 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652333284.0029492, 'user': {'account_name': 'Guest'}}
+2022-05-12 08:28:04,003 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-12 08:28:04,004 DEBUG log_decorator Была вызвана функция process_ans c параметрами ({'response': 200},), {}.
+Вызов из модуля __main__.
+Вызов из функции main().
+
+2022-05-12 08:28:04,004 INFO client Получен ответ от сервера 200 : OK
+2022-05-12 08:29:47,064 DEBUG log_decorator Была вызвана функция create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-12 08:29:47,064 DEBUG log_decorator Была вызвана функция check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-12 08:29:47,064 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-12 08:29:47,065 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-12 08:29:47,065 DEBUG log_decorator Была вызвана функция create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-12 08:29:47,065 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652333387.065084, 'user': {'account_name': 'Guest'}}
+2022-05-12 08:29:47,066 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-12 08:29:47,066 DEBUG log_decorator Была вызвана функция process_ans c параметрами ({'response': 200},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-12 08:29:47,066 INFO client Получен ответ от сервера 200 : OK
+2022-05-12 18:39:59,970 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-12 18:39:59,972 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-12 18:39:59,972 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-12 18:39:59,972 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-12 18:39:59,972 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-12 18:39:59,973 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652369999.972399, 'user': {'account_name': 'Guest'}}
+2022-05-12 18:39:59,974 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-12 18:39:59,974 DEBUG log_decorator Вызов функции process_ans c параметрами ({'response': 200},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-12 18:39:59,974 INFO client Получен ответ от сервера 200 : OK
+2022-05-18 08:05:46,341 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,342 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,342 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,342 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:05:46,342 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:05:46,343 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,343 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35332), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652850346.3427315, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:05:46,343 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652850346.3427315, 'user': {'account_name': 'Guest'}}
+2022-05-18 08:05:46,602 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,603 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,603 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,603 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:05:46,603 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:05:46,604 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,604 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35334), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652850346.6039522, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:05:46,604 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652850346.6039522, 'user': {'account_name': 'Guest'}}
+2022-05-18 08:05:46,775 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,776 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,776 DEBUG log_decorator Вызов функции check_mode c параметрами ('listen',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,776 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:05:46,776 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:05:46,776 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,777 ERROR client Ошибка декодирования JSON пакета от 127.0.0.1.
+2022-05-18 08:05:46,777 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35336), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652850346.7765722, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:05:46,777 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652850346.7765722, 'user': {'account_name': 'Guest'}}
+2022-05-18 08:05:46,993 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,993 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,994 DEBUG log_decorator Вызов функции check_mode c параметрами ('listen',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,994 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:05:46,994 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:05:46,994 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:05:46,995 ERROR client Ошибка декодирования JSON пакета от 127.0.0.1.
+2022-05-18 08:05:46,995 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35338), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652850346.9946072, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:05:46,995 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652850346.9946072, 'user': {'account_name': 'Guest'}}
+2022-05-18 08:05:47,497 ERROR client Ошибка декодирования JSON пакета от 127.0.0.1.
+2022-05-18 08:08:04,988 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:08:04,988 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:08:04,989 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:08:04,989 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:08:04,989 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:08:04,989 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:08:04,989 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35340), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652850484.9892893, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:08:04,989 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652850484.9892893, 'user': {'account_name': 'Guest'}}
+2022-05-18 08:09:11,662 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:09:11,662 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:09:11,662 DEBUG log_decorator Вызов функции check_mode c параметрами ('listen',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:09:11,663 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:09:11,663 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:09:11,663 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:09:11,663 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35342), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652850551.6632152, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:09:11,663 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652850551.6632152, 'user': {'account_name': 'Guest'}}
+2022-05-18 08:09:11,663 ERROR client Ошибка декодирования JSON пакета от 127.0.0.1.
+2022-05-18 08:09:32,052 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:09:32,052 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:09:32,053 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:09:32,053 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:09:32,053 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:09:32,053 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:09:32,054 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35346), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652850572.0535436, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:09:32,054 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652850572.0535436, 'user': {'account_name': 'Guest'}}
+2022-05-18 08:09:32,054 ERROR client Ошибка декодирования JSON пакета от 127.0.0.1.
+2022-05-18 08:13:04,459 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:13:04,460 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:13:04,460 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:13:04,460 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:13:04,460 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:13:04,460 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:13:04,461 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35348), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652850784.4605644, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:13:04,461 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652850784.4605644, 'user': {'account_name': 'Guest'}}
+2022-05-18 08:13:20,122 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:13:20,123 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:13:20,123 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:13:20,123 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:13:20,123 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:13:20,123 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:13:20,124 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35350), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652850800.1235192, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:13:20,124 INFO client Отправлен запрос на сервер {'action': 'presence', 'time': 1652850800.1235192, 'user': {'account_name': 'Guest'}}
+2022-05-18 08:13:20,124 ERROR client Ошибка декодирования JSON пакета от 127.0.0.1.
+2022-05-18 08:16:19,084 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:16:19,085 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:16:19,085 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:16:19,085 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:16:19,085 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:16:19,085 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:16:19,086 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35352), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652850979.085501, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:16:25,759 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:16:25,760 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:16:25,760 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:16:25,760 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:16:25,760 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:16:25,761 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:16:25,761 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35354), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652850985.7609742, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:16:25,761 ERROR client Ошибка декодирования JSON пакета от 127.0.0.1.
+2022-05-18 08:22:39,255 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:22:39,256 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:22:39,256 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:22:39,256 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:22:39,256 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:22:39,257 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:22:39,257 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35356), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652851359.256865, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:25:24,869 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:25:24,870 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:25:24,870 DEBUG log_decorator Вызов функции check_mode c параметрами ('listen',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:25:24,870 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:25:24,870 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:25:24,871 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:25:24,871 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35358), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652851524.8708322, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:26:12,803 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:26:12,804 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:26:12,804 DEBUG log_decorator Вызов функции check_mode c параметрами ('listen',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:26:12,804 INFO client Клиент запущен с параметрами: 127.0.0.1:7777
+2022-05-18 08:26:12,805 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:26:12,805 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:26:12,805 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35360), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652851572.8050878, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:31:12,137 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:31:12,137 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:31:12,137 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:31:12,137 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:31:12,137 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:31:12,138 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:31:12,138 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35366), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652851872.1378577, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:33:58,583 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:33:58,583 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:33:58,583 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:33:58,583 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:33:58,584 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:33:58,584 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:33:58,584 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35368), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652852038.5841722, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:34:39,491 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:34:39,491 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:34:39,492 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:34:39,492 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:34:39,492 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:34:39,492 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:34:39,492 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35370), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652852079.4923813, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:35:23,095 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:35:23,096 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:35:23,096 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:35:23,096 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:35:23,096 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:35:23,096 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:35:23,097 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35372), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652852123.0967252, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:35:23,097 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:35:23,097 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:35:57,929 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:35:57,929 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:35:57,930 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:35:57,930 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:35:57,930 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:35:57,930 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:35:57,930 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35374), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652852157.930264, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:35:57,930 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:35:57,931 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:38:03,276 ERROR client Ошибка декодирования JSON пакета от 127.0.0.1.
+2022-05-18 08:38:11,879 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:38:11,879 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:38:11,879 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:38:11,879 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:38:11,879 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:38:11,880 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:38:11,880 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35376), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652852291.879935, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:38:11,880 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:38:11,880 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:39:00,466 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:39:00,466 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:39:00,467 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:39:00,467 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:39:00,467 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:39:00,467 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:39:00,467 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35378), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652852340.4673908, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:39:00,468 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:39:00,468 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:54:41,955 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:54:41,956 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:54:41,956 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:54:41,956 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:54:41,956 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:54:41,957 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:54:41,957 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35380), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652853281.9567847, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:54:41,957 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:54:41,957 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:54:49,609 ERROR client Ошибка декодирования JSON пакета от 127.0.0.1.
+2022-05-18 08:55:13,146 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:55:13,146 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:55:13,146 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:55:13,146 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:55:13,146 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:55:13,147 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:55:13,147 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35382), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652853313.1469328, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:55:13,147 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:55:13,147 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:55:20,819 ERROR client Ошибка декодирования JSON пакета от 127.0.0.1.
+2022-05-18 08:57:48,410 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:57:48,411 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:57:48,411 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:57:48,411 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:57:48,411 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:57:48,411 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:57:48,412 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35384), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652853468.4115024, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:57:48,412 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:57:48,412 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:57:48,412 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35384), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:57:48,412 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-18 08:57:48,413 DEBUG log_decorator Вызов функции process_ans c параметрами ({'response': 200},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:57:48,413 INFO client Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-05-18 08:57:55,847 DEBUG client Сформировано сообщение: {'action': 'message', 'time': 1652853475.8476846, 'account_name': 'Guest', 'message_text': 'hi'}
+2022-05-18 08:57:55,851 DEBUG log_decorator Вызов функции create_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35384), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:57:55,853 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35384), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1652853475.8476846, 'account_name': 'Guest', 'message_text': 'hi'}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:34,450 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,451 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,451 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,451 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:58:34,451 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:58:34,451 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,452 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35386), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652853514.451471, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:34,452 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:58:34,452 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,452 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35386), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:34,452 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-18 08:58:34,452 DEBUG log_decorator Вызов функции process_ans c параметрами ({'response': 200},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,452 INFO client Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-05-18 08:58:34,653 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,654 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,654 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,654 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:58:34,654 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:58:34,655 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,655 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35388), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652853514.654962, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:34,655 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:58:34,655 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,656 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35388), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:34,656 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-18 08:58:34,656 DEBUG log_decorator Вызов функции process_ans c параметрами ({'response': 200},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,657 INFO client Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-05-18 08:58:34,859 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,859 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,860 DEBUG log_decorator Вызов функции check_mode c параметрами ('listen',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,860 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим listen
+2022-05-18 08:58:34,860 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:58:34,860 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,861 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35390), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652853514.8604546, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:34,861 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:58:34,861 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,861 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35390), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:34,861 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-18 08:58:34,862 DEBUG log_decorator Вызов функции process_ans c параметрами ({'response': 200},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:34,862 INFO client Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-05-18 08:58:35,055 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:35,056 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:35,056 DEBUG log_decorator Вызов функции check_mode c параметрами ('listen',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:35,057 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим listen
+2022-05-18 08:58:35,057 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:58:35,057 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:35,058 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35392), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652853515.0572186, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:35,058 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:58:35,058 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:35,058 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35392), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:35,058 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-18 08:58:35,059 DEBUG log_decorator Вызов функции process_ans c параметрами ({'response': 200},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:35,059 INFO client Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-05-18 08:58:49,148 DEBUG client Сформировано сообщение: {'action': 'message', 'time': 1652853529.1481311, 'account_name': 'Guest', 'message_text': 'hi'}
+2022-05-18 08:58:49,151 DEBUG log_decorator Вызов функции create_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35386), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:49,152 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35386), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1652853529.1481311, 'account_name': 'Guest', 'message_text': 'hi'}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:49,491 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35390), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:49,491 INFO client Получено сообщение от пользователя Guest:
+hi
+2022-05-18 08:58:49,492 DEBUG log_decorator Вызов функции message_from_server c параметрами ({'action': 'message', 'sender': 'Guest', 'time': 1652853529.4864354, 'message_text': 'hi'},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:49,492 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35392), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:49,493 INFO client Получено сообщение от пользователя Guest:
+hi
+2022-05-18 08:58:49,494 DEBUG log_decorator Вызов функции message_from_server c параметрами ({'action': 'message', 'sender': 'Guest', 'time': 1652853529.4864354, 'message_text': 'hi'},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:53,981 DEBUG client Сформировано сообщение: {'action': 'message', 'time': 1652853533.9811537, 'account_name': 'Guest', 'message_text': 'fgh'}
+2022-05-18 08:58:53,983 DEBUG log_decorator Вызов функции create_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35386), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:53,985 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35386), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1652853533.9811537, 'account_name': 'Guest', 'message_text': 'fgh'}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:54,312 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35390), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:54,312 INFO client Получено сообщение от пользователя Guest:
+fgh
+2022-05-18 08:58:54,313 DEBUG log_decorator Вызов функции message_from_server c параметрами ({'action': 'message', 'sender': 'Guest', 'time': 1652853534.3079958, 'message_text': 'fgh'},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:54,314 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35392), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:54,315 INFO client Получено сообщение от пользователя Guest:
+fgh
+2022-05-18 08:58:54,316 DEBUG log_decorator Вызов функции message_from_server c параметрами ({'action': 'message', 'sender': 'Guest', 'time': 1652853534.3079958, 'message_text': 'fgh'},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:57,635 DEBUG client Сформировано сообщение: {'action': 'message', 'time': 1652853537.6352491, 'account_name': 'Guest', 'message_text': 'hvjg'}
+2022-05-18 08:58:57,638 DEBUG log_decorator Вызов функции create_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35388), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:57,639 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35388), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1652853537.6352491, 'account_name': 'Guest', 'message_text': 'hvjg'}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:58,332 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35390), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:58,333 INFO client Получено сообщение от пользователя Guest:
+hvjg
+2022-05-18 08:58:58,334 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35392), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:58:58,334 DEBUG log_decorator Вызов функции message_from_server c параметрами ({'action': 'message', 'sender': 'Guest', 'time': 1652853538.327434, 'message_text': 'hvjg'},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:58:58,335 INFO client Получено сообщение от пользователя Guest:
+hvjg
+2022-05-18 08:58:58,336 DEBUG log_decorator Вызов функции message_from_server c параметрами ({'action': 'message', 'sender': 'Guest', 'time': 1652853538.327434, 'message_text': 'hvjg'},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:04,973 DEBUG client Сформировано сообщение: {'action': 'message', 'time': 1652853544.9736447, 'account_name': 'Guest', 'message_text': 'bgni'}
+2022-05-18 08:59:04,976 DEBUG log_decorator Вызов функции create_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35388), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:04,977 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35388), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1652853544.9736447, 'account_name': 'Guest', 'message_text': 'bgni'}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:59:05,558 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35390), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:59:05,559 INFO client Получено сообщение от пользователя Guest:
+bgni
+2022-05-18 08:59:05,560 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35392), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:59:05,560 DEBUG log_decorator Вызов функции message_from_server c параметрами ({'action': 'message', 'sender': 'Guest', 'time': 1652853545.5537586, 'message_text': 'bgni'},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:05,560 INFO client Получено сообщение от пользователя Guest:
+bgni
+2022-05-18 08:59:05,562 DEBUG log_decorator Вызов функции message_from_server c параметрами ({'action': 'message', 'sender': 'Guest', 'time': 1652853545.5537586, 'message_text': 'bgni'},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:13,255 INFO client Завершение работы по команде пользователя.
+2022-05-18 08:59:17,697 INFO client Завершение работы по команде пользователя.
+2022-05-18 08:59:57,184 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,184 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,184 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,184 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:59:57,184 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:59:57,185 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,185 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35396), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652853597.184962, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:59:57,390 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,390 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,391 DEBUG log_decorator Вызов функции check_mode c параметрами ('send',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,391 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим send
+2022-05-18 08:59:57,391 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:59:57,391 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,391 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35398), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652853597.3913028, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:59:57,392 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35396), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:59:57,393 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-18 08:59:57,393 DEBUG log_decorator Вызов функции process_ans c параметрами ({'response': 200},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,393 INFO client Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-05-18 08:59:57,595 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,595 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,596 DEBUG log_decorator Вызов функции check_mode c параметрами ('listen',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,596 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим listen
+2022-05-18 08:59:57,596 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:59:57,596 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,597 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35400), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652853597.5964417, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:59:57,597 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35398), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:59:57,598 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-18 08:59:57,598 DEBUG log_decorator Вызов функции process_ans c параметрами ({'response': 200},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,598 INFO client Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-05-18 08:59:57,800 DEBUG log_decorator Вызов функции create_parser c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,800 DEBUG log_decorator Вызов функции check_port c параметрами (7777,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,800 DEBUG log_decorator Вызов функции check_mode c параметрами ('listen',), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,800 INFO client Клиент запущен с параметрами: 127.0.0.1:7777 режим listen
+2022-05-18 08:59:57,801 DEBUG client Сформировано presence сообщение для пользователя Guest
+2022-05-18 08:59:57,801 DEBUG log_decorator Вызов функции create_presence c параметрами (), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,801 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35402), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1652853597.8011138, 'user': {'account_name': 'Guest'}}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:59:57,802 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35400), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:59:57,802 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-18 08:59:57,802 DEBUG log_decorator Вызов функции process_ans c параметрами ({'response': 200},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,802 INFO client Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-05-18 08:59:57,803 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35402), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 08:59:57,803 DEBUG client Обработка сообщения от сервера: {'response': 200}
+2022-05-18 08:59:57,804 DEBUG log_decorator Вызов функции process_ans c параметрами ({'response': 200},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 08:59:57,804 INFO client Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-05-18 09:00:09,272 DEBUG client Сформировано сообщение: {'action': 'message', 'time': 1652853609.2724771, 'account_name': 'Guest', 'message_text': 'hi'}
+2022-05-18 09:00:09,275 DEBUG log_decorator Вызов функции create_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35396), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 09:00:09,277 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35396), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1652853609.2724771, 'account_name': 'Guest', 'message_text': 'hi'}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 09:00:09,832 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35400), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 09:00:09,832 INFO client Получено сообщение от пользователя Guest:
+hi
+2022-05-18 09:00:09,834 DEBUG log_decorator Вызов функции message_from_server c параметрами ({'action': 'message', 'sender': 'Guest', 'time': 1652853609.8276393, 'message_text': 'hi'},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 09:00:09,834 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35402), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 09:00:09,834 INFO client Получено сообщение от пользователя Guest:
+hi
+2022-05-18 09:00:09,835 DEBUG log_decorator Вызов функции message_from_server c параметрами ({'action': 'message', 'sender': 'Guest', 'time': 1652853609.8276393, 'message_text': 'hi'},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 09:00:16,646 DEBUG client Сформировано сообщение: {'action': 'message', 'time': 1652853616.6465254, 'account_name': 'Guest', 'message_text': 'hihi'}
+2022-05-18 09:00:16,648 DEBUG log_decorator Вызов функции create_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35398), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 09:00:16,650 DEBUG log_decorator Вызов функции send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35398), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1652853616.6465254, 'account_name': 'Guest', 'message_text': 'hihi'}), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 09:00:17,055 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35400), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 09:00:17,056 INFO client Получено сообщение от пользователя Guest:
+hihi
+2022-05-18 09:00:17,057 DEBUG log_decorator Вызов функции message_from_server c параметрами ({'action': 'message', 'sender': 'Guest', 'time': 1652853617.0511887, 'message_text': 'hihi'},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 09:00:17,057 DEBUG log_decorator Вызов функции get_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35402), raddr=('127.0.0.1', 7777)>,), {}.Вызов из модуля common.utils.Вызов из функции main().
+2022-05-18 09:00:17,057 INFO client Получено сообщение от пользователя Guest:
+hihi
+2022-05-18 09:00:17,058 DEBUG log_decorator Вызов функции message_from_server c параметрами ({'action': 'message', 'sender': 'Guest', 'time': 1652853617.0511887, 'message_text': 'hihi'},), {}.Вызов из модуля __main__.Вызов из функции main().
+2022-05-18 09:00:22,349 INFO client Завершение работы по команде пользователя.
+2022-05-18 09:00:26,129 INFO client Завершение работы по команде пользователя.
